@@ -1,0 +1,1 @@
+Foi abordado programação no banco de dados com funções no PostgreSQL, tipos de parâmetros e retornos, tipos compostos, `SETOF` e `RECORD`, limitações do SQL, introdução ao PLpgSQL, criação de funções, variáveis, blocos, `IF/ELSEIF/ELSE`, `CASE`, `RETURN NEXT`, e controle de fluxo com `LOOP`, `WHILE`, `FOR` e `FOR IN`.
